@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #1d4eb9;
+  background: #e413d2;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2438,6 +2438,10 @@ ul.breadcrumb li + li:last-child {
 }
 .links-of-blogroll-item {
   padding: 0;
+}
+body {
+  background: url("/images/background.png");
+  background-attachment: fixed;
 }
 body {
   background: url("https://i0.hdslb.com/bfs/album/da7c5ea148d74f177eae19bae5b0b30cde377be5.png");
